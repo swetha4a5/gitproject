@@ -1,0 +1,27 @@
+
+<pagestore>
+	<page category="heading">
+		<caption lang="en">LIPTA INFOTAINMENT SOLUTION PRIVATE LIMITED</caption>
+	</page>
+	<page category="topside">
+		<topside1>INSIDE LIPTA</topside1>
+		<topside2>YOU &amp; LIPTA</topside2>
+		<topside3>TOOLS FOR JOB</topside3>
+		<topside4>ABOUT LIPTA</topside4>
+	</page>
+	<page category="content">
+		<content1>Top News</content1>
+		<content2>Birthday Events</content2>
+		<content3>New Openings</content3>
+		<content4>Mail</content4>
+		<content5>Contact us</content5>
+	</page>
+
+	<page category="footside">
+		<footside1>INSIDE LIPTA</footside1>
+		<footside2>YOU &amp; LIPTA</footside2>
+		<footside3>TOOLS FOR JOB</footside3>
+		<footside4>ABOUT LIPTA</footside4>
+	</page>
+	
+</pagestore>
