@@ -4,7 +4,7 @@
 		<caption lang="en">LIPTA INFOTAINMENT SOLUTION  LIMITED</caption>
 	</page>
 	<page category="top">
-		<topside1>INSIDE LIPTA</topside1>
+		<topside1> LIPTA</topside1>
 		<topside2>YOU &amp; LIPTA</topside2>
 		<topside3>TOOLS FOR JOB</topside3>
 		<topside4>ABOUT LIPTA</topside4>
@@ -17,11 +17,5 @@
 		<content5>Contact us</content5>
 	</page>
 
-	<page category="footside">
-		<footside1>INSIDE LIPTA</footside1>
-		<footside2>YOU &amp; LIPTA</footside2>
-		<footside3>TOOLS FOR JOB</footside3>
-		<footside4>ABOUT LIPTA</footside4>
-	</page>
 	
 </pagestore>
