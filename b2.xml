@@ -1,6 +1,8 @@
 <?xml version="1.0" ?> 
 <states>
+
     <state name="Andhrapradesh"></state>
+    <state name="Andhra"></state>
     <state name="Delhi"></state>
     <state name="UP"></state>
     <state name="MP"></state>
@@ -9,6 +11,10 @@
     <state name="Bihar"></state>
     <state name="Jammu-kashmir"></state>
     <state name="West-Bengal"></state>
+
     <state name="gujarat"></state>
     
+    <state name="Assam"></state>
+    <state name="kolkatta"></state>
+
 </states>
