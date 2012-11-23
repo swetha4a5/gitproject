@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <meta charset="utf-8">
+        <title>Lipta</title>
+    </head>
+
+<body>
+
+<script>
+ if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.open("GET","kettles.xml",false);
+xmlhttp.send();
+xmlDoc=xmlhttp.responseXML; 
+
+
+  var x=xmlDoc.getElementsByTagName("kettle");
+
+
+
+           for(i=0;i<=x.length;i++)
+           {
+
+             var sName = x[i].getAttribute("name");
+			var sFullname =x[i].getAttribute("fullname");
+			var sContact =x[i].getAttribute("contact");
+			var sEmail =x[i].getAttribute("email");
+			var iMage=x[i].getAttribute("image");
+			
+			
+			var sDesc=x[i].childNodes[0].nodeValue;
+			
+			
+		
+			
+			
+			document.write("<h1>"+sName+"</h1>"+"<br>");
+			document.write("<span style= margin-left:500px>"+sFullname+"</span>"+"<br>");
+			document.write("<span style= align:right>"+sContact+"</span>");
+			document.write(sEmail+"<br>");
+			document.write(sDesc+"<br>");
+			document.write("<img src="+iMage+">"+"<br>");
+			
+	
+			
+			
+		}
+		
+		
+</script> 
+
+	<table id="heading"/>
+	
+	
+			
+</body>
+</html>
