@@ -2,7 +2,8 @@
 <states>
 
     <state name="Andhrapradesh"></state>
-    <state name="Andhra"></state>
+     <state name="Tg"></state>
+    
     <state name="Delhi"></state>
     <state name="UP"></state>
     <state name="MP"></state>
@@ -16,5 +17,6 @@
     
     <state name="Assam"></state>
     <state name="kolkatta"></state>
+    <state name="kerala"></state>
 
 </states>
